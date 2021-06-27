@@ -1,0 +1,45 @@
+Performance and Load Testing Services
+-------------------------------------
+
+August 4, 2014
+
+Ginsbourg.com (since 2008)
+
+
+About The Services:
+
+Performance and load testing is a set of Quality Assurance (QA) activities for loading, monitoring, and analyzing complex software systems. It is the industry standard procedure for validating performance requirements at the system level under normal and anticipated peak load conditions. This validation is best performed by measuring responses while stressing the System under Test (SUT). The analysis of such test results is required for verifying the performance envelope and for stating the operating capacity of any software application, as well as pinpointing any virtual or physical bottlenecks that might root-cause service degradation.
+
+The ultimate goal of Ginsbourg.com is to deliver a powerful and reliable service suite, which allows IT teams to continuously quality control their systems. As part of these activities, scripts and scenarios are especially engineered in order to test the performance of websites and web applications. The same scripts and scenarios can later be reused for ongoing performance monitoring once the website and web applications are launched.
+
+Performance and load testing may be performed with various professional tools: Open-source free 'Apache-JMeter', budget 'SOASTA integrated Software Quality Suite' (named a leader in Gartner's report), luxurious industry standard 'HP LoadRunner', 'Microsoft Visual Studio Load Test Virtual User Pack', and other acknowledged on-premise software packages or open-source free solutions.
+
+With professional performance and load testing, you assure the availability of your websites and web applications, to provide optimal efficiency and customer satisfaction.
+
+
+Key Features:
+
+* Full Service - No irritating self-service partial solutions. End-to-end solution is provided to all of the customers.
+* Open Source - No software license fees at all for customers selecting 'Apache-JMeter' (recommended).
+* Script Reuse - Any test script can later be used for monitoring your websites and web applications.
+* Cloud Ready - All the above may be played on a wide selection of physical or virtual hosts on any cloud.
+* Mobile Users - Any action by a mobile user can virtually be simulated by the elaborated test scripts.
+* Easily Configurable - Rapid configuration of test scenarios, focus of testing, and test reports.
+* Email Integration - Prompt reports are sent via e-mail and optional SMS.
+* Prompt Alerts - Any deviation from the specified requirements of the customer would be reported.
+* Analysis Reports - All the results would fully be analyzed and reported.
+* Flexible Scheduling - Night runs are often preferred in order to avoid disrupting daytime workflows.
+
+
+Key Benefits:
+
+* For your customers - Performance and load testing assures superior end-user experience.
+* For your IT team - Performance and load testing guarantees control of websites and web applications.
+* For your management - Performance and load testing is a key for online business availability 24x7.
+
+
+Contact and Order:
+
+Email:  sginsbourg@gmail.com
+Viber:  +972 54 66 909 15
+Skype:  shay.ginsbourg
